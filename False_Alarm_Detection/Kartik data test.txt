@@ -1,0 +1,8 @@
+{
+    "Ambient Temperature": 7, 
+    "Calibration": 57.00, 
+    "Unwanted substance deposition": 0,
+	"Humidity": 90, 
+    "H2S Content": 7, 
+    "detected by" : 38 
+}
